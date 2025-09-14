@@ -5,7 +5,7 @@
 
 
 ### 🌟 **Android & Web Developer**  
-I am a passionate **Android developer** with **7 years of industry experience**, crafting efficient, user-friendly, and scalable applications. Alongside Android development, I am skilled in **web development using the Django framework**, allowing me to build full-stack applications seamlessly.  
+I am a passionate **Android developer** with **7 years of industry experience**, crafting efficient, user-friendly, and scalable applications. Alongside Android development, I am skilled in **web development using JavaScript**, allowing me to build full-stack applications seamlessly.  
 
 I’m a **technology enthusiast**, always eager to stay updated with the latest tools, trends, and innovations in the tech world. 🚀  
 
